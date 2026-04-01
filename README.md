@@ -1,6 +1,6 @@
 # Book-Stay-App
 
-Hotel Booking Management System built as an app-based learning project using Core Java and fundamental data structures.
+Book My Stay App is a Hotel Booking Management System built as an app-based learning project using Core Java and fundamental data structures.
 
 ## Objective
 
@@ -33,3 +33,21 @@ This project demonstrates how Core Java and data structures solve real-world sof
 - booking workflow
 - waitlist handling
 - reporting
+
+## Use Case 1
+
+The first use case establishes the application entry point for `Book My Stay App`.
+It demonstrates:
+
+- Java class structure
+- `main()` as the JVM entry point
+- `static` execution without object creation
+- console output with `System.out.println()`
+- JavaDoc-based class documentation
+
+Current behavior:
+
+- prints a welcome message
+- displays the application name
+- displays version information
+- terminates cleanly after execution
