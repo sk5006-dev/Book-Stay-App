@@ -1,0 +1,14 @@
+/**
+ * CLASS SuiteRoom
+ *
+ * Represents a suite room in the hotel.
+ *
+ * @author sk5006-dev
+ * @version 2.0
+ */
+public class SuiteRoom extends Room {
+    /** Initializes a SuiteRoom with predefined attributes. */
+    public SuiteRoom() {
+        super(3, 750, 5000.0);
+    }
+}
